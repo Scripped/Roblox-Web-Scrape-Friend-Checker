@@ -1,0 +1,2 @@
+npm install --save request request-promise cheerio puppeteer
+npm install prompt-sync
